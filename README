@@ -1,11 +1,11 @@
-$Id: README,v 1.8 2003/10/10 01:58:07 vek Exp $
+SETI::WebStats
+==============
 
-SETI/WebStats version 1.03
-==========================
+NOTE: THIS IS ABANDONWARE.  THE SETI@HOME PROJECT WAS MOVED TO THE NEW BOINC SERVICE A NUMBER OF YEARS AGO.  THIS CODE HAS NOT BEEN TOUCHED SINCE 2003, DOES NOT WORK, AND IS HERE FOR POSTERITY ONLY.
 
 A simple Perl interface to SETI@home User & Group statistics.
 
-The SETI::WebStats module queries the SETI@home web server to retrieve user and group statistics via XML.  The data availible from the server is the same as that displayed on the <Individual User Statistics and Group Statistics web pages.  In order to query the server, you will need a valid SETI@home account (i.e email address) or valid group name.
+The SETI::WebStats module queries the SETI@home web server to retrieve user and group statistics via XML.  The data availible from the server is the same as that displayed on the Individual User Statistics and Group Statistics web pages.  In order to query the server, you will need a valid SETI@home account (i.e email address) or valid group name.
 
 INSTALLATION
 
